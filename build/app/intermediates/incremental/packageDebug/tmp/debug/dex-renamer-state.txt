@@ -1,0 +1,4 @@
+#Thu May 16 12:40:52 PDT 2024
+base.0=C\:\\Users\\sbgym\\OneDrive\\Documents\\2023-2024\\CS375\\FINAL\\pet-tracker\\app4_final_presentation\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
